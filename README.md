@@ -1,1 +1,1 @@
-#DemoSite
+#DemoSite_HotelBooking
